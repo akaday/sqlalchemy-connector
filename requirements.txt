@@ -1,0 +1,4 @@
+sqlalchemy
+psycopg2-binary  # For PostgreSQL
+mysql-connector-python  # For MySQL
+sqlite3  # For SQLite (built-in with Python)
