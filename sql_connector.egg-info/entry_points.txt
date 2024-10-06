@@ -1,0 +1,2 @@
+[console_scripts]
+sql_connector = sql_connector.connector:main
